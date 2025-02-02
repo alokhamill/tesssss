@@ -7,12 +7,12 @@ const chalk = require('chalk');
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 //settings owner di ./setown.js
-global.packname = 'SychBotz'
-global.owner = ["62882008702155"]
-global.botnum = ["6287862997267"]
-global.author = 'ydaa'
-global.owname = 'mzyda'
-global.botname = 'SYCHY BOTz'
+global.packname = 'AlokBotz'
+global.owner = ["6285183197499"]
+global.botnum = ["6285183197499"]
+global.author = 'Vinzz'
+global.owname = 'Vinzz'
+global.botname = 'Alok BOTz'
 global.themeemoji = '🪀'
 global.f = '> '
 global.n = '`'
@@ -33,7 +33,7 @@ global.fake = {
 global.my = {
 	yt: 'https://www.youtube.com/@sychyy00',
 	gh: 'https://github.com/sychyy',
-	gc: 'https://chat.whatsapp.com/GQ5Gp0eSeDS6dPBYeHE6kf',
+	gc: 'https://chat.whatsapp.com/FR3oabC4OFa8KOhnDx3Y6k',
 	ch: '120363383347233294@newsletter',
 }
 global.limit = {
